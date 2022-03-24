@@ -1,5 +1,7 @@
 {
   "name": "miUbicacion",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
